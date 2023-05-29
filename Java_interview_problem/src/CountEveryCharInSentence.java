@@ -6,6 +6,7 @@ public class CountEveryCharInSentence {
 	public void check(String name) {
 
 		String[] spString = name.split(" ");
+		System.out.println(spString);
 
 		Map<Character, Integer> container = new HashMap<>();
 

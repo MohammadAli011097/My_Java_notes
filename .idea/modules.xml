@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_interview_problem/Java_interview_problem.iml" filepath="$PROJECT_DIR$/Java_interview_problem/Java_interview_problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/My_Java_notes.iml" filepath="$PROJECT_DIR$/My_Java_notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns_problem/Patterns_problem.iml" filepath="$PROJECT_DIR$/Patterns_problem/Patterns_problem.iml" />
     </modules>
   </component>
 </project>

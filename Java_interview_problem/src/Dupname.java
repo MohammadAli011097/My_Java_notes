@@ -43,6 +43,9 @@ public class Dupname {
 
 		Dupname cl = new Dupname();
 
+
+
+
 		cl.duplicate(name);
 
 	}
